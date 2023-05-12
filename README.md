@@ -7,7 +7,7 @@ This is a simple starter template code for building web applications using Expre
 To use this starter template, simply clone the repository and install the dependencies by running the following commands:
 
 ```
-git clone https://github.com/tier3guy/node-express-backend-template
+git clone https://github.com/HarshAgarwal7202/node-express-backend-template.git
 cd my-app
 npm install
 ```
